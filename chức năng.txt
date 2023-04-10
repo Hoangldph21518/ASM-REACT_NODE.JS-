@@ -1,0 +1,5 @@
+Các chức năng đã làm được : 
+- Đăng ký, đăng nhập có chuyển trang , form có validate 
+- Thêm(có danh mục) , sửa , xóa sản phẩm
+- Thêm , sửa , xóa danh mục 
+- Có confirm

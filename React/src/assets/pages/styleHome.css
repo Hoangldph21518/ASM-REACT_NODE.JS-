@@ -1,0 +1,20 @@
+.home{
+    height: 900vh;
+   text-align: center;
+   padding-top: 20px;
+}
+ .product1{
+    /* grid-template-columns: repeat(2, minmax(0, 1fr)); */
+    padding-left: 440px;
+    padding-top: 50px;
+}
+.sanpham{
+   text-align: center;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.chu1{
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+}

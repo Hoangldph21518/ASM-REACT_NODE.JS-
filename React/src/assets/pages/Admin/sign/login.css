@@ -1,0 +1,15 @@
+.signin{
+    text-align: center;
+    background-color: rgb(203, 200, 200);
+    height: 100vh;
+    padding-top: 30px;
+}
+.h1{
+    padding-top: 150px;
+    color: rgb(154, 5, 5);
+    font-size: 60px;
+    font-weight: bold;
+}
+.form{
+    padding-left: 440px;
+}
